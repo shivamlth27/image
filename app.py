@@ -36,7 +36,7 @@ cache = Cache(app)
 
 # Device configuration
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
-BATCH_SIZE = 4
+BATCH_SIZE = 1
 
 # Initialize IndicProcessor for translation
 ip = IndicProcessor(inference=True)
