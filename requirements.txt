@@ -1,0 +1,21 @@
+flask 
+flask-caching
+torch 
+transformers 
+Pillow 
+requests
+nltk
+sacremoses
+pandas
+regex
+mock
+transformers>=4.33.2
+mosestokenizer
+bitsandbytes
+scipy
+accelerate
+datasets
+sentencepiece
+gTTS
+gunicorn
+-e git+https://github.com/VarunGumma/IndicTransToolkit.git#egg=IndicTransToolkit
