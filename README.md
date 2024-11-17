@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# image
-image captioning
-=======
 # Image-captioning
 Multilingual assistive model that helps visually impaired users by describing images in multiple Indian languages and narrating the descriptions via audio.
 
